@@ -1,9 +1,9 @@
 {
   "name": "@reactvision/react-viro",
-  "main": "fabric-interop/dist/index.js",
-  "module": "fabric-interop/dist/index.js",
-  "types": "fabric-interop/dist/index.d.ts",
-  "version": "2.43.2",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "version": "2.43.3",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
