@@ -64,3 +64,6 @@ We, as a community, owe a great debt to Viro Media and the people who developed 
     <img src="readmes/morrow-supporter.png" alt="Morrow">
   </a>
 </p>
+
+Old build script:
+"build": "cd fabric-interop && npm run build",
